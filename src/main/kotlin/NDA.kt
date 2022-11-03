@@ -1,0 +1,4 @@
+interface NDA {
+
+     fun doNotShareThisProject()
+}

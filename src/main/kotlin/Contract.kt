@@ -1,0 +1,5 @@
+ interface Contract {
+
+    fun noticePeriod()
+
+}
